@@ -1,0 +1,14 @@
+ftp> open 127.0.0.1
+Connected to 127.0.0.1.
+220-FileZilla Server 1.10.3
+220 Please visit https://filezilla-project.org/
+202 UTF8 mode is always enabled. No need to send this command
+User (127.0.0.1:(none)): 
+331 Please, specify the password.
+
+530 Login incorrect.
+ftp> put "C:\Users\Administrator\Desktop\24127018.pdf"
+530 Please log in with USER and PASS first.
+530 Please log in with USER and PASS first.
+ftp> bye
+221 Goodbye.

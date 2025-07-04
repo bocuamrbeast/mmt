@@ -1,0 +1,5 @@
+open 127.0.0.1
+user user 1234
+binary
+put "C:\Users\Administrator\Desktop\24127018.pdf"
+bye
